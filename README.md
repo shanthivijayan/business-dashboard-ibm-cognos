@@ -5,6 +5,7 @@
 This repository contains a business analytics dashboard project built using IBM Cognos Analytics. The project focuses on analyzing technology usage trends, future technology preferences, and respondent demographics from the 2019 Stack Overflow Developer Survey.
 
 It demonstrates data visualization, dashboard creation, and analytical storytelling skills, using multiple types of visualizations to extract meaningful insights for business decision-making.
+
 **🎯 Project Objectives**
 
 Create interactive dashboards using IBM Cognos Analytics
