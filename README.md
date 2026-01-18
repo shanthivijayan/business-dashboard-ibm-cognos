@@ -34,6 +34,7 @@ m5_survey_data_demographics.csv – Respondent demographic information
 Visualizations: Bar charts, Column charts, Word clouds, Bubble charts, Tree maps, Pie charts, Map charts, Line charts, Stacked bar charts
 
 **📊 Dashboards & Key Panels**
+
 1️⃣ Current Technology Usage
 Panel	Metric	Chart Type
 1	Top 10 Languages Worked With	Bar chart
